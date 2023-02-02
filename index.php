@@ -5,7 +5,7 @@ before you start I want to tell you the values between <> are the values that va
 <!-- declaring boilerplate html like we do in normal html file--> 
 <html> 
 <head> 
-<title> demo </title>
+<title>demo</title>
 <body>
 <!-- this is where fun begins ;-D -->
 <?php
