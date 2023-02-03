@@ -28,6 +28,7 @@ before you start I want to tell you the values between <> are the values that va
 	echo $<var_name>;
  */
   echo $n1; # just like we do in python just need a $
+  echo "<br>"; # adding html break line
   /*
     showing arithmetic calculations 
 	syntax:
@@ -42,11 +43,16 @@ before you start I want to tell you the values between <> are the values that va
   $mod = $n1 % $n2; // gives out the remainder of the calculation (0 in this case)
   // printing out all the above calculations
   echo $sum;
+  echo "<br>"; # adding html break line
   echo $sub;
+  echo "<br>"; # adding html break line
   echo $pro;
+  echo "<br>"; # adding html break line
   echo $div;
+  echo "<br>"; # adding html break line
   echo $mod;
-
+  echo "<br>"; # adding html break line
+// Logical operators to-do
 ?>
 </body>
 </html>
